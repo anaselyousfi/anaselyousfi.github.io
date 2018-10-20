@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: Anas El Yousfi
+title: Anas El Yousfi | Student
+description: Computer Science student focused on building beautiful interfaces and experiences
+url: https://anaselyousfi.me
 baseurl: ""
-email: brittany.chiang@gmail.com
+email: anaselyousfi@gmail.com
 cover: https://brittanychiang.com/img/og.png
 logo: https://brittanychiang.com/img/emojis/technologist.png
 resume: https://brittanychiang.com/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:anaselyousfi@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/TheYousfi
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/anastheyousfi
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/anaselyousfi
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/anaselyousfi
 
 # Build settings
 markdown: kramdown
