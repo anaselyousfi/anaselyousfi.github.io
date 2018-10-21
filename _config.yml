@@ -1,13 +1,12 @@
 # Site settings
 name: Anas El Yousfi
 title: Anas El Yousfi | Student
-description: Computer Science student focused on building beautiful interfaces and experiences
+description: Anas El Yousfi
 url: https://anaselyousfi.me
 baseurl: ""
 email: anaselyousfi@gmail.com
 # cover: https://brittanychiang.com/img/og.png
 # logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
 social:
   - title: email
     url: mailto:anaselyousfi@gmail.com
