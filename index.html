@@ -2,8 +2,15 @@
 layout: default
 ---
 <div id="site">
-  <head><meta name="google-site-verification" content="jBjLH4TkFsixYmxpcgqyRYIz4_5nhjRftVlgqhnz5wo"/>
-  </head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127648681-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127648681-1');
+</script>
   {% include switch.html %}
   {% include intro.html %}
   {% include background.html %}
