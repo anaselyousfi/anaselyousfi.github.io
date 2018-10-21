@@ -5,8 +5,8 @@ description: Computer Science student focused on building beautiful interfaces a
 url: https://anaselyousfi.me
 baseurl: ""
 email: anaselyousfi@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
+# cover: https://brittanychiang.com/img/og.png
+# logo: https://brittanychiang.com/img/emojis/technologist.png
 resume: https://brittanychiang.com/resume.pdf
 social:
   - title: email
